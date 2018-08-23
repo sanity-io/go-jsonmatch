@@ -92,4 +92,4 @@ Select the last element of an array:
 
 ## Acknowledgements
 
-The code was originally forked from the Kubernetes JSONPath parser. However, it has since been heavily modified.
+The code was originally forked from the Kubernetes JSONPath parser. However, it has since been totally rewritten bit by bit.
