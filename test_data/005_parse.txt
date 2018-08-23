@@ -1,0 +1,13 @@
+{
+  "node": "union",
+  "nodes": [
+    {
+      "node": "field",
+      "name": "one"
+    },
+    {
+      "node": "field",
+      "name": "two"
+    }
+  ]
+}

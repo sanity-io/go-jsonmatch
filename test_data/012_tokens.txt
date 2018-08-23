@@ -1,0 +1,9 @@
+line #12 ".book[*].author"
+------------
+0: ".", dot
+1: "book", identifier
+5: "[", bracketLeft
+6: "*", asterisk
+7: "]", bracketRight
+8: ".", dot
+9: "author", identifier

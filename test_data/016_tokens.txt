@@ -1,0 +1,4 @@
+line #16 "..price"
+------------
+0: "..", range
+2: "price", identifier

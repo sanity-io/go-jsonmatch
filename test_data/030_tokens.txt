@@ -1,0 +1,3 @@
+line #30 "'escaped \\\"mixed quotes\\''"
+------------
+0: "'escaped \"mixed quotes''", single-quoted-string

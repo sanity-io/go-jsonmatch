@@ -1,0 +1,12 @@
+{
+  "node": "path",
+  "nodes": [
+    {
+      "node": "recursive"
+    },
+    {
+      "node": "existingField",
+      "name": "price"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "node": "path",
+  "nodes": [
+    {
+      "node": "field",
+      "name": "array"
+    },
+    {
+      "node": "index",
+      "name": 1
+    }
+  ]
+}

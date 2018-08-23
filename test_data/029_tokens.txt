@@ -1,0 +1,3 @@
+line #29 "\"escaped \\\\ \\/ slashes\""
+------------
+0: "\"escaped \\ / slashes\"", double-quoted-string

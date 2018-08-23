@@ -1,0 +1,6 @@
+line #25 "[:3]"
+------------
+0: "[", bracketLeft
+1: ":", colon
+2: "3", integer
+3: "]", bracketRight

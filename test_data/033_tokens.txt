@@ -1,0 +1,3 @@
+line #33 "\"escaped \\uD834\\uDD1E G clef character UTF-16 surrogate pair\""
+------------
+0: "\"escaped 𝄞 G clef character UTF-16 surrogate pair\"", double-quoted-string

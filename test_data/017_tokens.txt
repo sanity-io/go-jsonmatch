@@ -1,0 +1,5 @@
+line #17 "book.price"
+------------
+0: "book", identifier
+4: ".", dot
+5: "price", identifier

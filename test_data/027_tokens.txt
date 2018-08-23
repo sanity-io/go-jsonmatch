@@ -1,0 +1,3 @@
+line #27 "'escaped \\'single quotes\\''"
+------------
+0: "'escaped 'single quotes''", single-quoted-string

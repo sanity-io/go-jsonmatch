@@ -1,0 +1,10 @@
+line #8 "people[age > 4]"
+------------
+0: "people", identifier
+6: "[", bracketLeft
+7: "age", identifier
+10: "  ", whitespace
+11: ">", gt
+12: "  ", whitespace
+13: "4", integer
+14: "]", bracketRight

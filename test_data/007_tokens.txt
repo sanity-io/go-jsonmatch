@@ -1,0 +1,16 @@
+line #7 "[zargh,blagh,fnargh[1,2,3]]"
+------------
+0: "[", bracketLeft
+1: "zargh", identifier
+6: ",", comma
+7: "blagh", identifier
+12: ",", comma
+13: "fnargh", identifier
+19: "[", bracketLeft
+20: "1", integer
+21: ",", comma
+22: "2", integer
+23: ",", comma
+24: "3", integer
+25: "]", bracketRight
+26: "]", bracketRight

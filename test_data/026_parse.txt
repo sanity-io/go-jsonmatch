@@ -1,0 +1,9 @@
+{
+  "node": "slice",
+  "start": 3,
+  "end": 0,
+  "step": 0,
+  "startSpecified": true,
+  "endSpecified": false,
+  "stepSpecified": false
+}

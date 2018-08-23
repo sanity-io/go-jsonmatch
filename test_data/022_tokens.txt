@@ -1,0 +1,10 @@
+line #22 "array[@ == \"fnark\"]"
+------------
+0: "array", identifier
+5: "[", bracketLeft
+6: "@", at
+7: "  ", whitespace
+8: "==", equals
+10: "  ", whitespace
+11: "\"fnark\"", double-quoted-string
+18: "]", bracketRight

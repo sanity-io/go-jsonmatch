@@ -1,0 +1,3 @@
+line #10 "\"{\""
+------------
+0: "\"{\"", double-quoted-string

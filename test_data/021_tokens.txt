@@ -1,0 +1,6 @@
+line #21 "array[1]"
+------------
+0: "array", identifier
+5: "[", bracketLeft
+6: "1", integer
+7: "]", bracketRight

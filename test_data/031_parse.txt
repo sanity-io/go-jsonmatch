@@ -1,0 +1,5 @@
+{
+  "node": "string",
+  "pos": 0,
+  "value": "escaped \u0008 control \t characters \u000c on \r multiple \n lines"
+}

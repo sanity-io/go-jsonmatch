@@ -1,0 +1,5 @@
+{
+  "node": "string",
+  "pos": 0,
+  "value": "escaped 𝄞 G clef character UTF-16 surrogate pair"
+}

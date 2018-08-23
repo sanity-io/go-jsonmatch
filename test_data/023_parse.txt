@@ -1,0 +1,34 @@
+{
+  "node": "path",
+  "nodes": [
+    {
+      "node": "field",
+      "name": "a"
+    },
+    {
+      "node": "union",
+      "nodes": [
+        {
+          "node": "field",
+          "name": "c"
+        },
+        {
+          "node": "field",
+          "name": "b"
+        },
+        {
+          "node": "field",
+          "name": "array"
+        }
+      ]
+    },
+    {
+      "node": "field",
+      "name": "d"
+    },
+    {
+      "node": "field",
+      "name": "e"
+    }
+  ]
+}

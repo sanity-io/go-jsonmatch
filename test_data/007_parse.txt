@@ -1,0 +1,39 @@
+{
+  "node": "union",
+  "nodes": [
+    {
+      "node": "field",
+      "name": "zargh"
+    },
+    {
+      "node": "field",
+      "name": "blagh"
+    },
+    {
+      "node": "path",
+      "nodes": [
+        {
+          "node": "field",
+          "name": "fnargh"
+        },
+        {
+          "node": "union",
+          "nodes": [
+            {
+              "node": "index",
+              "name": 1
+            },
+            {
+              "node": "index",
+              "name": 2
+            },
+            {
+              "node": "index",
+              "name": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

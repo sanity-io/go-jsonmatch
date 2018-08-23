@@ -1,0 +1,16 @@
+{
+  "node": "path",
+  "nodes": [
+    {
+      "node": "field",
+      "name": "book"
+    },
+    {
+      "node": "wildcard"
+    },
+    {
+      "node": "field",
+      "name": "author"
+    }
+  ]
+}

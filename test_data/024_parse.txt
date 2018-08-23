@@ -1,0 +1,9 @@
+{
+  "node": "filter",
+  "lhs": {
+    "node": "field",
+    "name": "name"
+  },
+  "rhs": null,
+  "operator": "exists"
+}

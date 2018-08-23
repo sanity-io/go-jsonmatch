@@ -1,0 +1,8 @@
+line #5 "['one', 'two']"
+------------
+0: "[", bracketLeft
+1: "'one'", single-quoted-string
+6: ",", comma
+7: "  ", whitespace
+8: "'two'", single-quoted-string
+13: "]", bracketRight

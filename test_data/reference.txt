@@ -1,0 +1,34 @@
+a
+one.two.three
+[1]
+[-1:2]
+['one', 'two']
+$..a.b
+[zargh,blagh,fnargh[1,2,3]]
+people[age > 4]
+.bicycle.*
+"{"
+[1:3]
+.book[*].author
+.bicycle.*
+[?(@.price<3)]
+..
+..price
+book.price
+[bicycle.price, 3, book.price]
+"string"
+'field'
+array[1]
+array[@ == "fnark"]
+a['c','b','array'].d.e
+[name?]
+[:3]
+[3:]
+'escaped \'single quotes\''
+"escaped \"double quotes\""
+"escaped \\ \/ slashes"
+'escaped \"mixed quotes\''
+"escaped \b control \t characters \f on \r multiple \n lines"
+"escaped \u00E5 UTF-8"
+"escaped \uD834\uDD1E G clef character UTF-16 surrogate pair"
+"escaped \u00E5abc UTF-8 adjacent to text"

@@ -1,0 +1,14 @@
+line #23 "a['c','b','array'].d.e"
+------------
+0: "a", identifier
+1: "[", bracketLeft
+2: "'c'", single-quoted-string
+5: ",", comma
+6: "'b'", single-quoted-string
+9: ",", comma
+10: "'array'", single-quoted-string
+17: "]", bracketRight
+18: ".", dot
+19: "d", identifier
+20: ".", dot
+21: "e", identifier

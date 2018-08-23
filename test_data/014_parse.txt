@@ -1,0 +1,20 @@
+{
+  "node": "filter",
+  "lhs": {
+    "node": "path",
+    "nodes": [
+      {
+        "node": "self"
+      },
+      {
+        "node": "field",
+        "name": "price"
+      }
+    ]
+  },
+  "rhs": {
+    "node": "int",
+    "name": 3
+  },
+  "operator": "lt"
+}

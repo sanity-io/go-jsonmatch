@@ -1,0 +1,21 @@
+{
+  "node": "path",
+  "nodes": [
+    {
+      "node": "field",
+      "name": "people"
+    },
+    {
+      "node": "filter",
+      "lhs": {
+        "node": "field",
+        "name": "age"
+      },
+      "rhs": {
+        "node": "int",
+        "name": 4
+      },
+      "operator": "gt"
+    }
+  ]
+}

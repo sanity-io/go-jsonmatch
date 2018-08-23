@@ -1,0 +1,21 @@
+{
+  "node": "path",
+  "nodes": [
+    {
+      "node": "field",
+      "name": "array"
+    },
+    {
+      "node": "filter",
+      "lhs": {
+        "node": "self"
+      },
+      "rhs": {
+        "node": "string",
+        "pos": 11,
+        "value": "fnark"
+      },
+      "operator": "equals"
+    }
+  ]
+}

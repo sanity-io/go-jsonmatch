@@ -1,0 +1,3 @@
+line #34 "\"escaped \\u00E5abc UTF-8 adjacent to text\""
+------------
+0: "\"escaped åabc UTF-8 adjacent to text\"", double-quoted-string

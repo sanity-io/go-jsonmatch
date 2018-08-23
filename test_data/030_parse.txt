@@ -1,0 +1,4 @@
+{
+  "node": "field",
+  "name": "escaped \"mixed quotes'"
+}

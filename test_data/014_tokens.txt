@@ -1,0 +1,12 @@
+line #14 "[?(@.price<3)]"
+------------
+0: "[", bracketLeft
+1: "?", questionMark
+2: "(", parenLeft
+3: "@", at
+4: ".", dot
+5: "price", identifier
+10: "<", lt
+11: "3", integer
+12: ")", parenRight
+13: "]", bracketRight

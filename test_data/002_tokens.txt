@@ -1,0 +1,7 @@
+line #2 "one.two.three"
+------------
+0: "one", identifier
+3: ".", dot
+4: "two", identifier
+7: ".", dot
+8: "three", identifier

@@ -1,0 +1,3 @@
+line #31 "\"escaped \\b control \\t characters \\f on \\r multiple \\n lines\""
+------------
+0: "\"escaped \b control \t characters \f on \r multiple \n lines\"", double-quoted-string

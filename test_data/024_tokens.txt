@@ -1,0 +1,6 @@
+line #24 "[name?]"
+------------
+0: "[", bracketLeft
+1: "name", identifier
+5: "?", questionMark
+6: "]", bracketRight

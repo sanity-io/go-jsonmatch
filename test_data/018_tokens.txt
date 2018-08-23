@@ -1,0 +1,15 @@
+line #18 "[bicycle.price, 3, book.price]"
+------------
+0: "[", bracketLeft
+1: "bicycle", identifier
+8: ".", dot
+9: "price", identifier
+14: ",", comma
+15: "  ", whitespace
+16: "3", integer
+17: ",", comma
+18: "  ", whitespace
+19: "book", identifier
+23: ".", dot
+24: "price", identifier
+29: "]", bracketRight

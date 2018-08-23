@@ -1,0 +1,7 @@
+line #6 "$..a.b"
+------------
+0: "$", dollar
+1: "..", range
+3: "a", identifier
+4: ".", dot
+5: "b", identifier

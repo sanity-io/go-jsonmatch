@@ -1,0 +1,19 @@
+{
+  "node": "path",
+  "nodes": [
+    {
+      "node": "self"
+    },
+    {
+      "node": "recursive"
+    },
+    {
+      "node": "existingField",
+      "name": "a"
+    },
+    {
+      "node": "field",
+      "name": "b"
+    }
+  ]
+}
